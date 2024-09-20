@@ -2,4 +2,4 @@
 Data Analysis Projects
 
 ## PowerBI Dashboard
-![PowerBI Dashboard for Career Survey](https://github.com/NehaSharmaProjectPortfolio/DataAnalysis_CareerSurvey)
+![PowerBI Dashboard for Career Survey](https://github.com/NehaSharmaProjectPortfolio/DataAnalysis_CareerSurvey/blob/main/DataCareerSurvey.png)
